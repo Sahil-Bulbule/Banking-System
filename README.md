@@ -8,7 +8,7 @@ A simple **Banking System** built with Python for practicing basic programming c
 * Login using account number and PIN
 * Check account balance  
 * Deposit money 
-* Withdraw money  
+* Withdraw money   
 * View transaction history 
 * Logout 
 
