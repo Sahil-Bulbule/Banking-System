@@ -2,7 +2,7 @@
 
 A simple **Banking System** built with Python for practicing basic programming concepts and Object-Oriented Programming.
 
-## ✨ Features 
+## ✨ Features  
 
 * Create a bank account
 * Login using account number and PIN
