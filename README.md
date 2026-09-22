@@ -10,7 +10,7 @@ A simple **Banking System** built with Python for practicing basic programming c
 * Deposit money
 * Withdraw money
 * View transaction history 
-* Logout
+* Logout 
 
 ## 🛠️ Concepts Practiced
  
