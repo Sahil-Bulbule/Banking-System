@@ -6,7 +6,7 @@ A simple **Banking System** built with Python for practicing basic programming c
 
 * Create a bank account
 * Login using account number and PIN
-* Check account balance 
+* Check account balance  
 * Deposit money
 * Withdraw money  
 * View transaction history 
