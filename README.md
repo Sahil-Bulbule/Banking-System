@@ -9,7 +9,7 @@ A simple **Banking System** built with Python for practicing basic programming c
 * Check account balance
 * Deposit money
 * Withdraw money
-* View transaction history
+* View transaction history 
 * Logout
 
 ## 🛠️ Concepts Practiced
